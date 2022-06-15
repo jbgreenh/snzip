@@ -1,4 +1,4 @@
-project: jbgreenh/snzip
+project: snzip
 target: snzip
 
 cmds:
